@@ -1,0 +1,8 @@
+{
+    "lunch":
+    [
+        {"name":"Pizza","price":"$11.99","calories":"266"},
+        {"name":"Burger","price":"$7.99","calories":"295"},
+        {"name":"Burrito","price":"$8.99","calories":"2-6"}
+    ]
+}

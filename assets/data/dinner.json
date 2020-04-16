@@ -1,0 +1,8 @@
+{
+    "dinner": 
+    [
+        {"name":"Lasagna","price":"$31.25","calories":"1268"},
+        {"name":"Italian riceballs (Arancini)","price":"$9","calories":"683"},
+        {"name":"Teriyaki Meatloaf","price":"$29.99","calories":"1061"}
+    ]
+}
